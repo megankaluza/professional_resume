@@ -1,20 +1,19 @@
-# _Name_
+# _Megan Kaluza_
 
-#### _Project: functions for Epicodus, Date:_
+#### _Professional Resume_
 
 #### By _**Megan Kaluza**_
 
 ## Description
 
-_This webpage displays a form with bootstrap, divs, checkboxes, ids, classes, jQuery, JavaScript, functions, and CSS that initiate a survey to decide which remaining classes to take at Epicodus. My HTML and .js pages include comments to organize and continue building my webpage_
+_This webpage displays my personal resume that includes my school and experience with designing and developing websites_
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    __
+    _https://github.com/megankaluza/professional_resume.git_
 * _Open in text editor of your choice_
-*
 
 ## Known Bugs
 
@@ -22,14 +21,15 @@ _No known bugs at this time_
 
 ## Support and contact details
 
+_megan.kaluza@gmail.com_
+
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Bootstrap_
-_Google Fonts_
-_jQuery_
-_JavaScript_
+* _HTML_
+* _CSS_
+* _Google Fonts_
+* _jQuery_
+* _JavaScript_
 
 ### License
 
