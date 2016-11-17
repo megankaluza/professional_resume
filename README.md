@@ -2,11 +2,11 @@
 
 #### _Professional Resume_
 
-#### By _**Megan Kaluza**_
+#### Created By: _**Megan Kaluza**_
 
 ## Description
 
-_This webpage displays my personal resume that includes my school and experience with designing and developing websites_
+_This webpage displays my personal resume that includes my school and work experience with designing and developing websites_
 
 ## Setup/Installation Requirements
 
@@ -30,6 +30,9 @@ _megan.kaluza@gmail.com_
 * _Google Fonts_
 * _jQuery_
 * _JavaScript_
+* _SASS_
+* _Installing sass (command line): gem install sass_
+* _sass styles.scss_
 
 ### License
 
