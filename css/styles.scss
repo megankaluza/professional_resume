@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oxygen');
 
 $white: #FFF;
+$vivid: #009FFD;
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
   margin: 0;
@@ -27,7 +28,7 @@ h1 {
 h2 {
   font-family: 'Oxygen', sans-serif;
   font-size: 2em;
-  margin-left: 5%;
+  margin-left: 7%;
   opacity: .5;
 }
 
@@ -35,9 +36,18 @@ p {
   font-family: 'Oxygen', sans-serif;
 }
 
+span {
+  color: $vivid;
+}
+
+.contact {
+  float: left;
+  margin-top: 5%;
+}
+
 .icon {
-  width: 40px;
-  margin: 10px;
+  width: 30px;
+  margin: 5px;
 }
 
 .icons {
@@ -51,11 +61,27 @@ p {
   width: 100vw;
   min-height: 50vh;
   padding: 5%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  // display: flex;
+  // justify-content: center;
+  // align-items: center;
 }
 
-.pageOne {
+.page {
   margin: 5%;
+}
+
+.white {
+  color: $white;
+}
+
+#one {
+
+}
+
+#two {
+  background-color: $vivid;
+}
+
+#three {
+
 }

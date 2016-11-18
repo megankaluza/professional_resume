@@ -18,15 +18,22 @@ h1 {
 h2 {
   font-family: 'Oxygen', sans-serif;
   font-size: 2em;
-  margin-left: 5%;
+  margin-left: 7%;
   opacity: .5; }
 
 p {
   font-family: 'Oxygen', sans-serif; }
 
+span {
+  color: #009FFD; }
+
+.contact {
+  float: left;
+  margin-top: 5%; }
+
 .icon {
-  width: 40px;
-  margin: 10px; }
+  width: 30px;
+  margin: 5px; }
 
 .icons {
   float: right;
@@ -36,12 +43,15 @@ p {
 .intro {
   width: 100vw;
   min-height: 50vh;
-  padding: 5%;
-  display: flex;
-  justify-content: center;
-  align-items: center; }
+  padding: 5%; }
 
-.pageOne {
+.page {
   margin: 5%; }
+
+.white {
+  color: #FFF; }
+
+#two {
+  background-color: #009FFD; }
 
 /*# sourceMappingURL=styles.css.map */
